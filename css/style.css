@@ -198,7 +198,7 @@ transform: rotateX(25deg) translateZ(-2500px);
 
 .proposal{
 	animation: fadeIn 5s ease-in;
-	animation: paths 5s step-end infinite;
+	animation: paths 8s step-end infinite;
 	width: 100%;
 	margin-top: 10px;
 	margin-bottom: 10px;
