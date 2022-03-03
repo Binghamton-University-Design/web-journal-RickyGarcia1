@@ -89,6 +89,15 @@ nav ul a{
 	margin-right: auto;
 	width: 100%;
 }
+
+.timeline {
+	position: absolute;
+	height:100%;
+	width: 2px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color: ghostwhite;
+}
 .galaxy h1 {
 	animation: fadeIn 2s ease-in;
 	font-size: 60px;
