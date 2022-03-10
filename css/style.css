@@ -11,7 +11,6 @@ html, body {
 	font-family: itc-avant-garde-gothic-pro, sans-serif;
 	color: #E1E7E4;
 	font-size: 15px;
-	padding-left:60px;
 }
 
 body {
@@ -27,6 +26,12 @@ body {
 	background-repeat: no-repeat;
 }
 
+footer {
+	text-align: center;
+	position: relative;
+	bottom:  0%;
+	width: 100%;
+}
 
 .container{
 	height: 100vh;
@@ -91,7 +96,7 @@ nav ul a{
 }
 
 .timeline {
-	position: absolute;
+	position: relative;
 	height:100%;
 	width: 2px;
 	left: 50%;
