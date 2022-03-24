@@ -19,7 +19,7 @@ body {
 	align-items: center;
 	display: flex;
 	font-size: 1rem;
-	background-image: url(../images/spaceblue.jpg);
+	background: radial-gradient(ellipse at bottom, #1d2127 0%, #090a0f 100%);
 	background-position: center;
 	background-size:cover;
 	background-attachment: fixed;
