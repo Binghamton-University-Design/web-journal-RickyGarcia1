@@ -73,7 +73,7 @@ nav ul a{
 }
 
 .scattered-secrets{
-	width: 100%;
+	width: 60%;
 	margin-top: 150px;
 	margin-bottom: 150px;
 	margin: auto;
@@ -98,14 +98,15 @@ nav ul a{
 .timeline {
 	position: relative;
 	height:100%;
-	width: 2px;
+	width: 10px;
 	left: 50%;
 	transform: translateX(-50%);
-	background-color: ghostwhite;
+	background-color: #E1E7E4;
 }
+
 .galaxy h1 {
 	animation: fadeIn 4s ease-in;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 400;
 	font-family: itc-avant-garde-gothic-pro, sans-serif;
 	line-height: 1.35;
